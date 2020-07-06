@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="751e427e-b548-4818-bcf2-63baf590ed70" name="Default Changelist" comment="" />
+    <list default="true" id="751e427e-b548-4818-bcf2-63baf590ed70" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tranformers/EnergySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tranformers/EnergySystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tranformers/EnergyTransferTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Concurrent/SuiDynasty/Stage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Concurrent/SuiDynasty/Stage.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -17,6 +27,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1eIvJp2NVYvcutO99qVwsvvNWcC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,17 +35,32 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/SuiDynasty" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Tranformers" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Java\Concurrent\src\Tranformers" />
       <recent name="G:\Java\Concurrent\src\SuiDynasty" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EnergySystemTest">
+    <configuration name="EnergySystemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tranformers.EnergySystemTest" />
+      <module name="Concurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tranformers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Stage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SuiDynasty.Stage" />
       <module name="Concurrent" />
@@ -50,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnergySystemTest" />
         <item itemvalue="Application.Stage" />
       </list>
     </recent_temporary>
@@ -65,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594021852193</updated>
       <workItem from="1594021856311" duration="21000" />
-      <workItem from="1594021887783" duration="1752000" />
+      <workItem from="1594021887783" duration="3061000" />
     </task>
     <servers />
   </component>
@@ -77,21 +104,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594021876488" />
-    <state width="1258" height="338" key="GridCell.Tab.0.bottom" timestamp="1594023554397">
+    <state width="1493" height="487" key="GridCell.Tab.0.bottom" timestamp="1594025075583">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1258" height="338" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594023554397" />
-    <state width="1258" height="338" key="GridCell.Tab.0.center" timestamp="1594023554396">
+    <state width="1493" height="487" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594025075583" />
+    <state width="1493" height="487" key="GridCell.Tab.0.center" timestamp="1594025075583">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1258" height="338" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594023554396" />
-    <state width="1258" height="338" key="GridCell.Tab.0.left" timestamp="1594023554396">
+    <state width="1493" height="487" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594025075583" />
+    <state width="1493" height="487" key="GridCell.Tab.0.left" timestamp="1594025075583">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1258" height="338" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594023554396" />
-    <state width="1258" height="338" key="GridCell.Tab.0.right" timestamp="1594023554396">
+    <state width="1493" height="487" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594025075583" />
+    <state width="1493" height="487" key="GridCell.Tab.0.right" timestamp="1594025075583">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1258" height="338" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594023554396" />
+    <state width="1493" height="487" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594025075583" />
   </component>
 </project>
